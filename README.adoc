@@ -1,0 +1,7 @@
+= Crystal Status
+
+A very simple status site written with Crystal. Just playing around.
+
+== License
+
+ISC, see the link:/LICENSE[LICENSE] file.
